@@ -1,2 +1,2 @@
-# Links úteis
-Documentação do Cypress: https://docs.cypress.io/
+# Cypress Documentation: https://docs.cypress.io/
+
